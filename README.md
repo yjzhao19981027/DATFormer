@@ -1,2 +1,2 @@
 # DATFormer
-We will soon release our code.
+We will release our code soon. 
